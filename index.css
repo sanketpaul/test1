@@ -282,8 +282,20 @@ p{
         width:100%;
     }
 
+     .primary{
+        height:50vh;
+    }
+    .secondary{
+      height:50vh;
+    }
+    .register{
+        height:50vh
+    }
     .logo{
         width:40%;
+    }
+    .third{
+        visibility: hidden;
     }
 }
 @media screen and (max-width:420px){
